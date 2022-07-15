@@ -7,7 +7,6 @@ mc 12e2799a7be54c220251002
 lizizll eb1ba994ae62d120220803
 ChungTran b5358226851f8b20220814
 US UK 79d7429420220710
-..........
 ScanDomail
 ETsy seller
 TuEtsyseller 8020522a5f297d20220720
@@ -17,8 +16,5 @@ ETsy seller
 ebay
 cuongbtc91: E5792937CCD1 000700080009
 ebay
-Scan Name ETSY
-mc b7d7499f45190e20250202
-Scan Name ETSY
-Scan Name ETSY
+
 
